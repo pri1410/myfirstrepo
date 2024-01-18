@@ -1,3 +1,3 @@
 # myfirstrepo
 this is cool
-creted by- Priyanka Jha
+created by- Priyanka Jha
